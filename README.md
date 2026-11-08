@@ -1,9 +1,9 @@
-# Bike Sharing Data Analytics Dashboard 🚲
+# Bike Sharing Data Analytics Dashboard
 
 ## Deskripsi Proyek
-Proyek analisis data ini bertujuan untuk mengeksplorasi **Bike Sharing Dataset**. Analisis ini berfokus pada dua hal utama:
-1. Mengetahui pengaruh kondisi cuaca dan musim terhadap jumlah penyewaan sepeda harian.
-2. Menganalisis perbedaan pola penyewaan antara pengguna kasual (*casual*) dan pengguna terdaftar (*registered*) pada hari kerja (*workingday*) serta hari libur (*holiday*).
+Proyek analisis data ini bertujuan untuk mengeksplorasi **Bike Sharing Dataset**. Analisis difokuskan pada:
+1. Pengaruh kondisi cuaca dan musim terhadap jumlah penyewaan sepeda harian.
+2. Perbedaan pola penyewaan sepeda antara pengguna kasual (*casual*) dan pengguna terdaftar (*registered*) pada hari kerja dibandingkan hari libur selama periode 2011 hingga 2012.
 
 ## Struktur Direktori
 ```text
@@ -15,7 +15,7 @@ submission/
 │   ├── day.csv
 │   ├── hour.csv
 │   └── Readme.txt
-├── notebook.ipynb
+├── Proyek_Analisis_Data.ipynb
 ├── README.md
 ├── requirements.txt
 └── url.txt
